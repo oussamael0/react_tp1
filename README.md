@@ -1,4 +1,4 @@
 #Result
 
-<img src="screnshot/screenshot1.png" width="300">
+<img src="screnshot/screenshot1.png" width="700">
 
